@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <BIS2BIS_CustomerRules>
+            <active>true</active>
+            <codePool>vendor</codePool>
+            <depends>
+                <BIS2BIS_Engine/>
+            </depends>
+        </BIS2BIS_CustomerRules>
+    </modules>
+</config>

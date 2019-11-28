@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<layout>
+	<customer_address_form>
+		<reference name="head">
+			<action method="addJs"><script>BIS2BIS_CustomerRules::web/dist/main.js</script></action>
+		</reference>
+	</customer_address_form>
+	
+	<osc_onepage_checkout>
+		<reference name="head">
+			<action method="addJs"><script>BIS2BIS_CustomerRules::web/dist/main.js</script></action>
+		</reference>
+	</osc_onepage_checkout>
+</layout>
